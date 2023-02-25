@@ -4,7 +4,7 @@
 </h3>
 <p align="center">
     <a>
-                     <img src="https://readme-typing-svg.herokuapp.com/?lines=FrontEnd%20Developer">
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=FrontEnd%20Developer">
     </a>
 </p>
 
