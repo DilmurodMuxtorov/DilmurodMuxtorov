@@ -15,11 +15,11 @@
 <br/>
 <br/>
 
-- 🌍 I'm WEB developer from Uzbekistan 🇺🇿
+- 🌍 I'm Frontend Developer from Uzbekistan 🇺🇿
 - 🔭 I'm currently working on My project
 - 🌱 I'm currently learning frontend 
 - 👯 I'm looking to collaborate on developer project
-- 💬 Ask me about WEB Developer
+- 💬 Ask me about Frontend Developer
 
 <br/>
 
